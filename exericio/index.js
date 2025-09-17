@@ -1,8 +1,8 @@
 let nome = 'Rian';
 let sobrenome = 'Silveira';
 let idade = 21;
-let peso = 65;
-let altura = 1.65;
+let peso = 165;
+let altura = 1.85;
 let IMC;
 
 function calcularIMC(peso, altura) {
